@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sroey\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\sroey\AndroidStudioProjects\New_project\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_50a4c9fec811f514bf1910b14649d06ddf20f27c.jar" />
+    </item>
+    <item
+        jar="C:\Users\sroey\AndroidStudioProjects\New_project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\Users\sroey\AndroidStudioProjects\New_project\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-18.0.0_3323b5b850d2c96fe8684986a60cefb108abc613.jar" />
+    </item>
+
+</items>
